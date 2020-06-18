@@ -6,5 +6,16 @@ class Circle {
   get PI(){
     return Math.PI;
   }
-  get 
+  
+  get diameter(){
+    return this.radius * 2;
+  }
+  
+  get diameter(){
+    return this.radius * 2;
+  }
+  
+  get diameter(){
+    return this.radius * 2;
+  }
 }
